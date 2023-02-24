@@ -1,6 +1,6 @@
 # UNLV First Class Repository
 
-This repository is:
+This repo is:
 
   * an introduction to SD
   * really cool
